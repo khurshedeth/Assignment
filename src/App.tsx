@@ -51,7 +51,7 @@ function WeatherDashboard() {
               repeatDelay: 5
             }}
           >
-            <Cloud className="text-white mr-2" size={30} />
+            <Cloud className="text-white mr-2" size={40} />
           </motion.div>
           <h1 className="text-2xl sm:text-3xl font-bold text-white">Weather Dashboard</h1>
         </motion.div>
